@@ -8,7 +8,7 @@ Simple app tahts show:
 5. temerature
 6. presure
 7. wind
-8. wteher  
+8. waether  
 Based on device location  
 require location permission
 
