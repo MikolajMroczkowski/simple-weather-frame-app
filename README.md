@@ -1,4 +1,5 @@
 # simple-weather-frame-app
+### about:
 Simple app tahts show:  
 1. clock
 2. date
@@ -9,4 +10,9 @@ Simple app tahts show:
 7. wind
 8. wteher  
 Based on device location  
-require location permission  
+require location permission
+
+### built with
+1. expo
+2. react-native
+3. open-meteo.com
